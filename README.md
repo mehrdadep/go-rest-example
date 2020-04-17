@@ -9,4 +9,4 @@ A simple REST API to upload and download files
 
 ## Medium related post
 You can follow my medium [Build your first REST API in Go language using Gin framework
-Go]() post to find out about more about this project. 
+Go](https://medium.com/@mehrdadep/build-your-first-rest-api-in-go-language-using-gin-framework-827aadc14e07) post to find out about more about this project. 
