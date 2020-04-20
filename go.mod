@@ -1,4 +1,4 @@
-module go-rest-example
+module github.com/mehrdadep/go-rest-example
 
 go 1.14
 
