@@ -1,7 +1,7 @@
 package main
 
 import (
-	"go-rest-example/api/view"
+	"github.com/mehrdadep/go-rest-example/api/view"
 )
 
 func main() {

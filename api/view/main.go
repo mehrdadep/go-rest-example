@@ -3,7 +3,7 @@ package view
 import (
 	"fmt"
 	"github.com/gin-gonic/gin"
-	"go-rest-example/api/controller"
+	"github.com/mehrdadep/go-rest-example/api/controller"
 	"net/http"
 )
 
